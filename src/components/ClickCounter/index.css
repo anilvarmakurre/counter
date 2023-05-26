@@ -1,0 +1,14 @@
+.bg-counter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: Roboto;
+  text-align: center;
+}
+.head {
+  font-size: 25px;
+  font-weight: bold;
+}
+.count {
+  color: #c20a72;
+}
